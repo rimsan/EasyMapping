@@ -24,10 +24,7 @@
 #import "EKObjectMapping.h"
 #import "EKPropertyMapping.h"
 #import "EKRelationshipMapping.h"
-#import "XCTestCase+EasyMapping.h"
-#import "EKMappingProtocol.h"
 #import "NSDateFormatter+EasyMappingAdditions.h"
-#import "EKMapper.h"
 
 @implementation EKObjectMapping
 
